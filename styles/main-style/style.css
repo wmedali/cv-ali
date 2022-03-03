@@ -1,0 +1,33 @@
+#section {
+  border: 2px;
+  padding: 10px;
+  border-color: black;
+  font-family: monospace;
+  color: red;
+  text-align: center;
+  list-style: inside;
+}
+
+.title {
+  font-family: cursive;
+}
+
+h2 {
+  color: yellowgreen;
+}
+
+.image-pro {
+  width: 150px;
+  height: 150px;
+}
+
+.image-pro,
+h2 {
+  border: 10px solid;
+  border-style: dotted;
+  border-color: rgb(12, 1, 24);
+}
+ul li,
+p {
+  color: blueviolet;
+}
